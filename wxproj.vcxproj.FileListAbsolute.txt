@@ -1,0 +1,2 @@
+D:\wxproj\wxproj\x64\Debug\wxproj.exe
+D:\wxproj\wxproj\x64\Debug\wxproj.pdb
